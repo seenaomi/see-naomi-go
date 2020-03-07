@@ -1,0 +1,20 @@
+{
+  "name": "Eleventy blog/site starter",
+  "shortDesc": "I'm Naomi See a mobile and web app creator living in Omaha, Nebraska.",
+  "url": "",
+  "lang": "en",
+  "authorHandle": "@colorful_n0mi",
+  "authorName": "Naomi See",
+  "paymentPointer": "",
+  "syntaxTheme": "prism-material-light.css",
+  "permalinkClass": ["permalink"],
+  "iframeClass": ["iframes-wrapper"],
+  "codeClass": ["code-wrapper"],
+  "figureClass": ["figure"],
+  "paths": {
+    "src": "src",
+    "blogdir": "blog",
+    "includes": "components",
+    "output": "dist"
+  }
+}
