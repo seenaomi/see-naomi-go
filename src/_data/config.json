@@ -1,5 +1,5 @@
 {
-  "name": "Eleventy blog/site starter",
+  "name": "Naomi See's blog",
   "shortDesc": "I'm Naomi See a mobile and web app creator living in Omaha, Nebraska.",
   "url": "",
   "lang": "en",
@@ -13,6 +13,7 @@
   "figureClass": ["figure"],
   "paths": {
     "src": "src",
+    
     "blogdir": "blog",
     "includes": "components",
     "output": "dist"
