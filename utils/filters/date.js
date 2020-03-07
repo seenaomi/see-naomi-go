@@ -21,7 +21,7 @@ module.exports = function(value) {
     'November',
     'December',
   ]
-  const dayWithSuffix = appendSuffix(dateObject.getDate())
+  const dayWithSuffix = appendSuffix(dateObject.getDate() + 1)
 
   return `${dayWithSuffix} ${
     months[dateObject.getMonth()]

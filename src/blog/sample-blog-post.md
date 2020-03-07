@@ -1,6 +1,6 @@
 ---
-title: Simple blog post
-date: '2020-01-25'
+title: Sample blog post
+date: '2020-03-07'
 tags:
   - sample-content
   - code
