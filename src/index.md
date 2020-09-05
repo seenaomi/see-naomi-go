@@ -10,4 +10,5 @@ Maintaining blogs has never been something I have been consistent with. Hooray f
 * Styling additions from [Material Design](https://getmdl.io/started/index.html)
 * Blog code on [Github](https://github.com/seenaomi/see-naomi-go)
 * Blog hosted by [Netlify](https://www.netlify.com/)
+* Email alias provided by [ImprovMX](https://improvmx.com/)
 * Some blog hosted images on [Pixabay](https://pixabay.com/)
